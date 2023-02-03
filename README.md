@@ -8,6 +8,13 @@ A Python library is a collection of related modules. It codes that can be used r
 # What is module in Python?
 A module is a collection of code or functions that uses the . py extension. A Python library is a set of related modules or packages bundled together
 
+# What is PIP?
+PIP is a package manager for Python packages, or modules if you like.
+
+# What is a Package?
+A package contains all the files you need for a module.
+Modules are Python code libraries you can include in your project.
+
 
 # How to install packages in python?
 
