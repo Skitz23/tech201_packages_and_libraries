@@ -9,6 +9,35 @@ A Python library is a collection of related modules. It codes that can be used r
 A module is a collection of code or functions that uses the . py extension. A Python library is a set of related modules or packages bundled together
 
 
+# How to install packages in python?
+
+(1) First, type Command Prompt in the Windows search box
+
+(2) Next, open the Command Prompt, and you’ll see the following screen with your user name (to avoid any permission issues, you may consider to run the Command Prompt as an administrator):
+
+(3) In the Command Prompt, type “cd\” as this command will ensure that your starting point has only the drive name:
+
+(4) Press Enter. Now you’ll see the drive name of C:\>
+
+(5) Locate your Python Scripts path. The Scripts folder can be found within the Python application folder, where you originally installed Python.
+
+Here is an example of a Python Scripts path:
+
+C:\Users\Ron\AppData\Local\Programs\Python\Python39\Scripts
+
+(6) In the Command Prompt, type cd followed by your Python Scripts path:
+
+(7) Press Enter
+
+(8) Now, type the pip install command to install your Python package.
+
+(9) Finally, press Enter, and you’ll notice that the package will be installed:
+
+
+
+
+
+
 ```class Fizzbuzz:
 
     def __init__(self, start_of_range, end_of_range):
